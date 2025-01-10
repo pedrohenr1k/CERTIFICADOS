@@ -37,4 +37,12 @@ Este repositório contém os certificados de cursos, workshops e eventos que par
      ![image](https://github.com/user-attachments/assets/750aec5a-a7ea-4243-ada1-09b179f6dd54)
 
 
+   - [PYTHON BÁSICO - Fundação Bradesco](https://lms.ev.org.br/mpls/Web/Lms/Student/PrintCertificateDownload.ashx?uid=11396751&p=3RkhzQxP%252fsPYo6oe3Nv1wxa2AP1xhRJN)
+   
+     ![image](https://github.com/user-attachments/assets/6708b722-00cd-4bc4-9f77-d1384be5c732)
+
+     
+   
+
+
 
